@@ -1,5 +1,7 @@
 # ERCOT Battery Revenue Model
 
+<img src="battery_dispatch.png" width="800">
+
 This project was developed as part of my MSc at Imperial College London to examine the investment viability of a utility-scale battery operating in the ERCOT electricity market.
 
 The model combines historical real-time market data with forward price simulation to generate 15-minute price paths and evaluate battery dispatch strategies.
