@@ -45,19 +45,21 @@ Degradation Cost | $10 / MWh throughput |
 
 ---
 
-## Example Battery Dispatch
+## Revenue Breakdown
 
-![Battery Dispatch](Battery_operation.png)
+![Revenue Breakdown](ERCOT_RTM_Price_Distribution.png)
 
 ---
+
 ## Price Projection
 
 ![Price Projection](ERCOT_Price_Projections.png)
 
 ---
-## Revenue Breakdown
 
-![Revenue Breakdown](ERCOT_RTM_Price_Distribution.png)
+## Example Battery Dispatch
+
+![Battery Dispatch](Battery_operation.png)
 
 ---
 
