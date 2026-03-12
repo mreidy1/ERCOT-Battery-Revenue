@@ -51,12 +51,14 @@ Degradation Cost | $10 / MWh throughput |
 
 ![Revenue Breakdown](ERCOT_RTM_Price_Distribution.png)
 
+This figure shows the distribution of ERCOT real-time prices across major load zones, highlighting intraday volatility and price spikes that create arbitrage opportunities for storage.
 ---
 
 ## Price Projection
 
 ![Price Projection](ERCOT_Price_Projections.png)
 
+Historical price data is used to generate forward price simulations using seasonal patterns and stochastic noise processes. (Based on modo energy yearly predictions)
 ---
 
 ## Example Battery Dispatch
