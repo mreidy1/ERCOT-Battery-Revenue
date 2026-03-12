@@ -57,7 +57,7 @@ Degradation Cost | $10 / MWh throughput |
 ---
 ## Revenue Breakdown
 
-![Revenue Breakdown](ERCOT_RTM_Price_Distribution.png)
+![Revenue Breakdown](ERCOT_RTM_Price_Distribution .png)
 
 ---
 
