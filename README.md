@@ -1,6 +1,6 @@
 # ERCOT Battery Revenue Model
 
-<img "battery_dispatch.png" width="800">
+![Battery Dispatch](Battery_operation.png)
 
 This project was developed as part of my MSc at Imperial College London to examine the investment viability of a utility-scale battery operating in the ERCOT electricity market.
 
@@ -65,6 +65,7 @@ Historical price data is used to generate forward price simulations using season
 
 ![Battery Dispatch](Battery_operation.png)
 
+Battery simulating trading based on price signals
 ---
 
 ## Limitations
