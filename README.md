@@ -1,6 +1,6 @@
 # ERCOT Battery Revenue Model
 
-<img src="battery_dispatch.png" width="800">
+<img "battery_dispatch.png" width="800">
 
 This project was developed as part of my MSc at Imperial College London to examine the investment viability of a utility-scale battery operating in the ERCOT electricity market.
 
